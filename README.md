@@ -1,4 +1,3 @@
-# Bora Praticar Spring Boot, JPA e H2 com uma Api Rest
+##Oooopáaa Bora Praticar, nesta prática vamos utilizar docker para disponibilizar passo a passo um banco de dados MYSQL, para a API cliente Spring Boot, que é nossa API base. Mas você poderá adicionar a qualquer outra API Spring Boot e adequar ao banco de dados de sua necessidade.
 
-## Demostração da criação de uma API Rest Spring Boot com JPA e H2
-## Vídeo passo a passo: https://youtu.be/HHXn-nT3g10
+## Vídeo passo a passo: https://youtu.be/YlICwf2RHI0
